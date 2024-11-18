@@ -1,2 +1,5 @@
+# Local venv files  
+.venv
+
 # Secrets
 .env
