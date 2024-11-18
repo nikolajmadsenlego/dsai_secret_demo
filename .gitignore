@@ -3,3 +3,7 @@
 
 # Secrets
 .env
+
+# Artifacts
+artifacts/*
+!artifacts/.gitkeep
