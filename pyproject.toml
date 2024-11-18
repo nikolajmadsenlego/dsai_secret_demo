@@ -2,7 +2,7 @@
 name = "dsai-secret-demo"
 version = "0.1.0"
 description = "Demo Project for secret handling during local development with a .env file and during development in Databricks"
-authors = ["Nikolaj Madsen <nikolaj.madsen@lego.com>"]
+authors = ["Nikolaj Juul Madsen <nikolaj.madsen@lego.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
